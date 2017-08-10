@@ -1,0 +1,15 @@
+.slider-image {
+    cursor: grab;
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+.imageContainer {
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+    overflow-x: hidden;
+    height: 1000px;
+    position: relative;
+}
